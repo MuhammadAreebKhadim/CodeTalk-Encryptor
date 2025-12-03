@@ -5,7 +5,6 @@
 It allows you to securely encode or decode messages using a key and customizable random characters.  
 Think of it as your secret messenger – only those with the correct key can unlock your message! 
 
-
 ##  Features
 
 -  Encode and decode any message.
@@ -13,7 +12,6 @@ Think of it as your secret messenger – only those with the correct key can unl
 -  Requires a secret key (`aabbii`) for secure access.
 -  Three-attempt limit to prevent unauthorized decoding.
 -  User-friendly command-line interface with emojis and friendly prompts.
-
 
 ##  How It Works
 
@@ -36,14 +34,12 @@ Think of it as your secret messenger – only those with the correct key can unl
 
 No external libraries are required — it only uses Python’s built-in `random` and `string` modules.
 
-
 ##  Installation & Usage
 
 1. **Clone the Repository:**
    ```bash
       git clone https://github.com/<your-username>/CodeTalk-Encryptor.git
    cd CodeTalk-Encryptor
-
    
  Run the Program: 
  ```bash
